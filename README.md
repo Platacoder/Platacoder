@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Platacoder
 - 👀 I’m interested in learning new technologies, gaining knowledge, making positive impacts.
-- 🌱 I’m currently learning full stack development using a .NET framework.
+- 🌱 I’m currently a student at Tech Elevator learning full stack development using a .NET framework.
+- In order to protect the educational integrity of Tech Elevator, many of my projects are private. Please reach out if to me for access.
