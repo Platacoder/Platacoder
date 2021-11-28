@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Steven Garcia.
 - 👀 I’m interested in learning new technologies, gaining knowledge, making positive impacts.
 - 🌱 I’m currently a student at Tech Elevator learning full stack development using a .NET framework.
-- 🔒 In order to protect the educational integrity of the Tech Elevator curriculum, many of my projects are private. Please reach out to me for access.
