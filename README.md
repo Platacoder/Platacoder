@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Steven Garcia.
-- 👀 I’m interested in learning new technologies, gaining knowledge, making positive impacts.
+- 👀 I’m interested in learning new technologies, growing as a developer, and making positive impacts.
 - 🌱 I’m currently a student at Tech Elevator learning full stack development using a .NET framework.
+- 🔧 My toolset currently consist of C#, .NET Core, ASP.NET, ADO.NET, MS SQL, PostMan, HTML, CSS, Javascript, Vue.js, Unit Testing, and Integration Testing.
